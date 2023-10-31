@@ -11,10 +11,10 @@ Its useful for to guess the random number.
 
 ## Built With
 
-* love
 * html
 * css
 * javascript
+* love
 
 ## How to Run?
 
