@@ -1,0 +1,55 @@
+*{
+    background-color: aliceblue;
+}
+
+.box{
+    border: 3px solid black;
+    background-color:#ffc9b9;
+    margin-top: 250px;
+    margin-left: 500px;
+    padding: 40px;
+    height: 200px;
+    border-radius: 20px;
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+}
+#topic{
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+    text-align: center;
+    background-color:transparent;
+}
+
+#intro{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    background-color: transparent;
+}
+
+#form{
+    font-size: 20px;
+    font-family: sans-serif;
+    background-color:#ffc9b9;
+}
+#question{
+    font-size: 20px;
+    font-family: sans-serif;
+    background-color: transparent;
+    padding: 20px;
+}
+.abt
+{
+	font-family: Comic Sans MS;
+	font-size: 20px;
+	color: #e14110; 
+    vertical-align: bottom;
+    text-align: center;
+   
+}
+.rights{
+    font-size: 20px;
+	color: black; 
+    vertical-align: bottom;
+    text-align: center;
+}
