@@ -1,4 +1,4 @@
-let y= Math.floor (Math.random () * 11);
+let y= Math.floor (Math.random () * 101);
 
 let guess = 1;
 
